@@ -1,0 +1,31 @@
+body{
+	background-color: #efeee7;
+	font: "Georgia","Times New Roman",Times,serif;
+	color: #333333;
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: #d21034;
+}
+h1{
+	background-color: #333333;
+	color: white;
+	font-size: 28px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+h2{
+	font-size: 24px;
+}
+.container{
+	outline: 1px solid red;
+	width: 1024px;
+}
+p{
+	text-align: center;
+}
+.main-bio, .contact-info, img{
+	float: left;
+}
